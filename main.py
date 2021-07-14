@@ -14,13 +14,13 @@ import time
 # Github Action
 enable_gh_action = False  # 启用GitHub Action
 # Bark Push
-enable_bark = False  # 启用Bark推送
-bark_token = ""  # Bark推送ID
+enable_bark = True  # 启用Bark推送
+bark_token = "PkgSrKpVF835MMpApgzUGK"  # Bark推送ID
 # Ticket Stuff
 startSite = "SK"  # 始发站点
 endSite = "HKA"  # 目标站点
-startDate = "2021-08-1"  # 船票搜索日期
-endDate = "2021-08-30"
+startDate = "2021-09-01"  # 船票搜索日期
+endDate = "2021-09-07"
 show_available_only = True  # 只显示有票的日期
 # ==================================
 
